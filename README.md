@@ -4,9 +4,13 @@ This project showcases an interactive HR Analytics Dashboard built using Microso
 🔍 Key Insights & Features
 
 👥 Count of Employees: 1470
+
 🎂 Average Age: 37 Years
+
 🧑‍💼 Average Working Years: 7.0
+
 💰 Average Salary: 6.5K
+
 📉 Attrition Rate: 16.1% (237 Employees)
 
 ✨ Visual Insights Include:
